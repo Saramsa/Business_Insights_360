@@ -2,7 +2,7 @@
 # Atliq Data Analytics Project Summary
 
 ## LINKS:
-Live Dashboard : https://app.powerbi.com/groups/me/apps/74ad533b-d11f-4013-961b-afaaca8299e2/reports/f4351712-e24b-4557-b8f1-17a80468e93a/ReportSection0ebf71d08cc0a73a0010?experience=power-bi
+Live Dashboard : [BI 360](https://app.powerbi.com/groups/me/apps/74ad533b-d11f-4013-961b-afaaca8299e2/reports/f4351712-e24b-4557-b8f1-17a80468e93a/ReportSection0ebf71d08cc0a73a0010?experience=power-bi)
 ## Problem Statement:
 Atliq specializes in hardware sales across physical stores and online platforms. Our three-tiered sales channels (retailers, direct sales, and distributors) were facing challenges in Latin America due to intuition-based strategies. To combat this, we established a data analytics team to leverage factual data for strategic decisions.
 
