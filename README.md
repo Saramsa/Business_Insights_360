@@ -1,6 +1,10 @@
 # Business_Insights_360
 # Atliq Data Analytics Project Summary
 
+## Problem Statement:
+Atliq specializes in hardware sales across physical stores and online platforms. Our three-tiered sales channels (retailers, direct sales, and distributors) were facing challenges in Latin America due to intuition-based strategies. To combat this, we established a data analytics team to leverage factual data for strategic decisions.
+
+
 ## Technologies Used:
 
 - **SQL:** Loaded data from SQL dump into MySQL and Power BI.
